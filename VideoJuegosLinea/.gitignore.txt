@@ -1,0 +1,29 @@
+# Unreal Engine: archivos generados
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE y compilación
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs y archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Archivos de respaldo del editor
+*.autosave
