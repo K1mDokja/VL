@@ -1,5 +1,5 @@
-2026/10/18-16:45:56.041 6018 Reusing MANIFEST C:/Users/rende/Documents/GitHub/VL/VideoJuegosLinea/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/10/18-16:45:56.042 6018 Recovering log #64
-2026/10/18-16:45:56.042 6018 Level-0 table #67: started
-2026/10/18-16:45:56.044 6018 Level-0 table #67: 81390 bytes OK
-2026/10/18-16:45:56.046 6018 Delete type=0 #64
+2026/10/19-19:49:02.285 5a6c Reusing MANIFEST C:/Users/rende/Documents/GitHub/VL/VideoJuegosLinea/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/10/19-19:49:02.316 5a6c Recovering log #68
+2026/10/19-19:49:02.319 5a6c Level-0 table #70: started
+2026/10/19-19:49:02.321 5a6c Level-0 table #70: 80894 bytes OK
+2026/10/19-19:49:02.323 5a6c Delete type=0 #68
